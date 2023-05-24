@@ -5,11 +5,14 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
+countryoforigin,Country of Origin, true
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
+type,Work Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+citation,Citation
+archivedpage,Link to Archived Page
